@@ -1,5 +1,4 @@
 # ITI-1378-Midterm_SmartFoodLogger
-
 Smart Food Logger: Image-Based Meal Classification
 Team member: Lakwan Bonsu & Courtney Bernard
 Course: ITAI 1378 - Computer Vision and Artificial Intelligence
