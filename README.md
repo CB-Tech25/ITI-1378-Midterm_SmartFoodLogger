@@ -1,0 +1,1 @@
+# ITI-1378-Midterm_SmartFoodLogger
